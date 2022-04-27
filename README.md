@@ -16,7 +16,7 @@ Currently a medior .NET developer, but striking for senior role in the near futu
 
 <!-- GITHUB STATUS -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Annosz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Annosz&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=contribs"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annosz&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
