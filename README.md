@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I am Hungarian Software Engineer working at EPAM Systems.<br/>
+Currently a medior .NET developer, but striking for senior role in the near future 🚀<br/>
+
+- 🔭 I’m currently working with .NET Web API development.
+- 🌱 I’m currently learning to became an Azure Developer Associate (AZ-204).
+- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
+- 🤔 I’m looking for help with [UIInfoSuite2](https://github.com/Annosz/UIInfoSuite2).
+- 💬 Ask me about coffee, puzzles and .NET.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: husband at 24, father at 27.
+- 🎢 Profile Visitors Count:  ![](https://visitor-badge.glitch.me/badge?page_id=Annosz)
+
 <br>
 
 <!-- GITHUB STATUS -->
