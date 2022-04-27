@@ -5,8 +5,8 @@ Currently a medior .NET developer, but striking for senior role in the near futu
 
 - 🔭 I’m currently working with .NET Web API development.
 - 🌱 I’m currently learning to became an Azure Developer Associate (AZ-204).
-- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
-- 🤔 I’m looking for help with [UIInfoSuite2](https://github.com/Annosz/UIInfoSuite2).
+- 👯 I’m looking to collaborate with other Stardew Valley mod developers.
+- 🤔 I’m always looking for help with [UIInfoSuite2](https://github.com/Annosz/UIInfoSuite2).
 - 💬 Ask me about coffee, puzzles and .NET.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: husband at 24, father at 27.
