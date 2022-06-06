@@ -20,6 +20,10 @@ Currently a medior .NET developer, but striking for senior role in the near futu
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annosz&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+<div align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Annosz&theme=onedark&no-bg=true&no-frame=true" />
+</div>
+
 <br>
 
 <!-- SOCIAL PAGES -->
