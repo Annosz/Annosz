@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I am Hungarian Software Engineer working at EPAM Systems.<br/>
-Currently a medior .NET developer, but striking for senior role in the near future 🚀<br/>
+I am Hungarian Senior Software Engineer working at Diligent.<br/>
 
-- 🔭 I’m currently working with .NET Web API development.
+- 🔭 I’m currently working as a .NET Web API developer with MSSQL, Angular and AWS 🚀.
 - 🌱 I’m learning to became an Azure Developer Associate (AZ-204).
 - 👯 I’m looking to collaborate with other Stardew Valley mod developers.
 - 🤔 I’m always looking for help with [UIInfoSuite2](https://github.com/Annosz/UIInfoSuite2).
