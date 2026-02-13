@@ -9,19 +9,6 @@ I am Hungarian Senior Software Engineer working at Diligent.<br/>
 - 💬 Ask me about coffee, puzzles and video games.
 - 📚 Fun fact: read 52 books a year... in the last 3 years!
 - ⚡ Fun fact: husband at 24, father at 27.
-- 🎢 Profile Visitors Count:  ![](https://visitor-badge.glitch.me/badge?page_id=Annosz)
-
-<br>
-
-<!-- GITHUB STATUS -->
-<div align="center">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Annosz&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=contribs"/>
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Annosz&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<div align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=Annosz&theme=onedark&no-bg=true&no-frame=true" />
-</div>
 
 <br>
 
